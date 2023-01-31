@@ -35,3 +35,5 @@ sampleDict = {
 # solution
 print(sampleDict['class'])
 print("Promedio: ", (sampleDict['class']['student']['marks']['history']))
+
+#No me queda claro como imprimir en este formato: {"nombre": 75}
