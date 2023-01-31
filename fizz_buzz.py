@@ -1,8 +1,3 @@
-
-
-
-
-
 num = input ('Ingrese un número entero mayor a 0 \n')
 x = 0
 
